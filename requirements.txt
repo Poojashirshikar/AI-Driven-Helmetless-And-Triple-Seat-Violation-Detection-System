@@ -1,0 +1,9 @@
+pymongo
+python-Levenshtein
+flask
+flask-mail
+werkzeug
+opencv-python
+pillow
+paddleocr
+ultralytics
